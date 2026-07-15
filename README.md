@@ -16,6 +16,8 @@ Predicting customer churn using machine learning to help businesses identify at-
 
 ---
 
+
+
 # 📖 Project Overview
 
 Customer churn is one of the biggest challenges for subscription-based and service-oriented businesses. Losing existing customers is often more expensive than acquiring new ones.
@@ -125,11 +127,11 @@ Performance was evaluated using:
 
 | Metric | Logistic Regression | Random Forest |
 |---------|--------------------:|--------------:|
-| Accuracy | *(Add your result)* | *(Add your result)* |
+| Accuracy | *(0.7166666666666667)* | *(Add your result)* |
 | Precision | *(Add your result)* | *(Add your result)* |
 | Recall | *(Add your result)* | *(Add your result)* |
 | F1 Score | *(Add your result)* | *(Add your result)* |
-| ROC-AUC | *(Add your result)* | *(Add your result)* |
+| ROC-AUC | *( 0.5927113222312221)* | *(Add your result)* |
 
 ---
 
@@ -208,7 +210,7 @@ Customer-Churn-Prediction
 │
 ├── Images
 │   ├── model-overview.png
-│   ├── confusion-matrix.png
+│   ├── confusion-matrix 01.png
 │   ├── roc-curve.png
 │   └── feature-importance.png
 │
