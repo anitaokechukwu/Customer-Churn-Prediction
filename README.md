@@ -15,6 +15,18 @@ Predicting customer churn using machine learning to help businesses identify at-
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available.
+
+**Source:** Hospital Billing Dataset (Kaggle)
+
+🔗 https://www.kaggle.com/datasets/...
+
+> Note: The dataset is not included in this repository due to its size. Please download it from the source above and place it in the `data/` folder before running the analysis.
+
+
+
 
 
 # 📖 Project Overview
