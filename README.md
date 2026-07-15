@@ -10,7 +10,6 @@ Predicting customer churn using machine learning to help businesses identify at-
 
 # 📸 Project Preview
 
-> 📌 Replace the image below with your model results, confusion matrix, ROC curve, feature importance chart, or dashboard after uploading it to the **Images** folder.
 
 ![Customer Churn Prediction](Images/model-overview.png)
 
