@@ -127,9 +127,9 @@ Performance was evaluated using:
 | Metric | Logistic Regression | Random Forest |
 |---------|--------------------:|--------------:|
 | Accuracy | *(0.7166666666666667)* | *(Add your result)* |
-| Precision | *(Add your result)* | *(Add your result)* |
-| Recall | *(Add your result)* | *(Add your result)* |
-| F1 Score | *(Add your result)* | *(Add your result)* |
+| Precision | *(0.70 )* | *(Add your result)* |
+| Recall | *(0.45 )* | *(Add your result)* |
+| F1 Score | *( 0.44 )* | *(Add your result)* |
 | ROC-AUC | *( 0.5927113222312221)* | *(Add your result)* |
 
 ---
