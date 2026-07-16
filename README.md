@@ -144,6 +144,19 @@ Performance was evaluated using:
 | F1 Score | *( 0.64)* | *(0.66)* |
 | ROC-AUC | *( 0.6567)* | *(0.5927)* |
 
+
+## 🏆 Best Performing Model
+
+Both Logistic Regression and Random Forest were evaluated for customer churn prediction.
+
+Although Logistic Regression achieved a higher ROC-AUC (0.6567), the Random Forest Classifier delivered the strongest overall predictive performance with:
+
+- **Accuracy:** 71.67%
+- **Recall:** 72%
+- **F1 Score:** 66%
+
+Based on these results, the **Random Forest Classifier** was selected as the final model due to its superior ability to correctly classify customer churn while maintaining strong overall performance.
+
 ---
 
 # 📊 Visualizations
